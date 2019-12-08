@@ -8,7 +8,11 @@
       <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0" />
       <PackageReference Include="Microsoft.EntityFrameWorkCore.SQLite" Version="3.1.0" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
-      <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.0" />
+      <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Pages\Items" />
     </ItemGroup>
 
 </Project>
